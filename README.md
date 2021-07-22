@@ -1,24 +1,16 @@
-# jwt-auth-app
+first need to run node.js server
 
-## Project setup
-```
-yarn install
-```
+go to dowloaded folder in cmd and type
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+-- npm start 
 
-### Compiles and minifies for production
-```
-yarn build
-```
+next need to install vue app
 
-### Lints and fixes files
-```
-yarn lint
-```
+First install 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-- npm install
+
+next start serve
+
+-- npm run serve
+
